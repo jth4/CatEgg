@@ -1,4 +1,27 @@
 {
+  "stickers" : [
+    {
+      "filename" : "CatEgg - BLURB.sticker"
+    },
+    {
+      "filename" : "CatEgg - CHALLENGED.sticker"
+    },
+    {
+      "filename" : "CatEgg - HAPPY.sticker"
+    },
+    {
+      "filename" : "CatEgg - POUT.sticker"
+    },
+    {
+      "filename" : "CatEgg - WHATEVS.sticker"
+    },
+    {
+      "filename" : "CatEgg - WINK.sticker"
+    },
+    {
+      "filename" : "CatEgg - BLISSFUL.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
